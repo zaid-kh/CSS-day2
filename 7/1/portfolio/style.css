@@ -1,0 +1,43 @@
+main {
+    margin: auto;
+    border: solid;
+    width: 25%;
+    background-color: bisque;
+}
+
+.headings {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#profession {
+    color: darkgray;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+p>em {
+    color: brown;
+
+}
+
+li {
+    float: left;
+    padding: 1em;
+}
+
+#socials-list {
+    list-style-type: none;
+    width: auto;
+}
+
+#socials-list img {
+    width: 3em;
+}
